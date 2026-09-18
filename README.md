@@ -2,39 +2,33 @@
 BY FAUSTINA ATOTI
 
 September 2026
-# Objectives
-Analyze road users who are at the highest risk.
+# Objective
+The objective of this dashboard is to visualize enterprise risk exposure across business functions, evaluate the effectiveness of risk controls through inherent and residual risk analysis, monitor overdue mitigation actions, and support data-driven risk governance and decision-making.
 
-Identify factors contributing to accidents in Kenya.
 
-Identify which counties are accident hotspots.
-
-Analyze monthly casualty trends over the years.
 # Dataset Description
 This project uses a synthetic AI generated dataset created for educational and portfolio building
-purposes. The dataset simulates realistic road accident trends in Kenya between the years 2021 and
-2024.
-# Data Cleaning Process
-Replaced values for County Column.
+purposes. 
 
-Removed Duplicates from Accident_ID column.
 
-Handling Missing Values: blank values were replaced with N/A for the columns Weather_Condition and Road_Condition.
-# Data Analysis and Results
-For this project, Fatality Rate was calculated as follows:
+# Key Findings
+180 total risks identified.
 
-Fatality Rate=(Total Fatalities/Total Casualties)*100%
+140 overdue actions indicate delayed risk mitigation.
 
-The following is a snapshot of the Microsoft Excel report generated from the data:
-<img width="415" height="205" alt="image" src="https://github.com/user-attachments/assets/84266451-48c3-4267-bccb-43c4bfab474a" />
+Critical risks fell from 29.44% (inherent) to 2.78% (residual).
+
+Procurement and Human Resources have the highest number of risks (16 each).
+
+Sales & Marketing has the lowest risk count (4).
+
+Risk exposure is spread across multiple departments, requiring organization-wide monitoring.
+
+The following is a snapshot of the Power BI report generated from the data:
+<img width="1271" height="718" alt="image" src="https://github.com/user-attachments/assets/70f4cc2e-b801-4463-8533-5c8f16de1d70" />
+
 
 # Key Insights
-Road User Vulnerability:Cyclists record the highest fatality rate at 12% followed by motorcyclist at
-11%.
+Risk controls are effective, reducing Critical Risks from 29.44% to 2.78%.
 
-Factors: Overspeeding is the leading factor contributing to 2,729  out of 7,000 road accidents.
-
-County Hotspots: Nairobi has the highest volume recorded. Kakamega  has the lowest volume.
-
-Monthly Trends: Highest Casualties recorded in May 2023 and November 2024. Lowest Casualties
-recorded in January 2023 and January 2024.
+43 High Residual Risks remain, indicating ongoing exposure.
