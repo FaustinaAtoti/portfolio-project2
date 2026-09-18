@@ -1,7 +1,7 @@
-# KENYA ROAD SAFETY TREND ANALYSIS(SYNTHETIC DATASET)
+# RISK INTELLIGENCE DASHBOARD
 BY FAUSTINA ATOTI
 
-May 2026
+September 2026
 # Objectives
 Analyze road users who are at the highest risk.
 
